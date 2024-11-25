@@ -1,0 +1,6 @@
+When creating a category(JSON tester):
+
+
+    {
+        "name": "Food"
+    }

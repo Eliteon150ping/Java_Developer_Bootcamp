@@ -1,0 +1,19 @@
+When creating a transaction(JSON tester):
+
+    {
+
+        "type": "expense",
+        "amount": 200.0,
+        "date": "2023-11-06",
+        "description": "Freelance work",
+        "user": {
+
+            "id": 9,
+        },
+        "category": {
+            "id": 1
+
+        }
+    }
+
+NB: A user and category must exist before creating a transaction.

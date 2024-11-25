@@ -1,0 +1,12 @@
+When creating a goal(JSON tester):
+
+{
+  "id": 1,
+  "description": "Buy 3 new laptops",
+  "targetAmount": 1500.00,
+  "currentAmount": 500.00,
+  "targetDate": "2024-12-31",
+  "user": {
+    "id": 9
+  }
+}
